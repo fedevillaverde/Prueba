@@ -4,3 +4,5 @@
 print("holiiiiiiiiii")
 print("holis mundi")
 print("hola mundo")
+print("ami")
+print("amis")
